@@ -1,0 +1,16 @@
+.srgb{
+	height: 30px;
+	background-color: black;
+	margin-top: 30px;
+}
+
+.srgb_b{
+	height: 150px;
+	background-color: blue;
+	margin-top: 30px;
+}
+.srgb_y{
+	height: 50px;
+	background-color: yellow;
+	margin-top: 30px;
+}
